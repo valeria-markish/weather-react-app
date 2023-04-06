@@ -4,12 +4,12 @@ export default function Footer() {
   return (
     <footer>
       <a
-        href="https://github.com/valeria-markish/weather-project"
+        href="https://github.com/valeria-markish/weather-react-app"
         target="_blank"
       >
         Open-source code
       </a>
-      <em>by Valeria Markish</em>
+      <em> by Valeria Markish</em>
     </footer>
   );
 }
